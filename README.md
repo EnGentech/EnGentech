@@ -21,6 +21,9 @@ _Do you prefer <i>whatspp</i>_ 🤔<br>
  * CSS
  * JavaScript
  * NodeJs
+  <hr><br>
+  
+ ### <p align="center"> I am open to be trainied and to train anyone who needs my services, <br>I am open to colaborate with other software engineer around the globe hence to contribute my quota </p>
 <!--
 **EnGentech/EnGentech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
