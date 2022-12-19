@@ -1,5 +1,13 @@
-### Hi there 👋
+## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) </p>
+### I am currently a student at ALX Software Engineering
 
+    Learing is my discipline
+
+
+## Contact me
+* <a href="www.linkedin.com/in/iberedem-inyang-3b88ba223">LinkenIn
+* <a href="https://web.facebook.com/engr.gentle.1/"> Facebook
+* <a href=“engen.inyang@email.com”>Mail_me</a>
 <!--
 **EnGentech/EnGentech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
