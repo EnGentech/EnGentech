@@ -1,5 +1,5 @@
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) </p>
-### I am currently a student at ALX Software Engineering
+### I am currently an student at ALX Software Engineering
 
   Learning is my discipline
 
@@ -12,6 +12,15 @@
 _Do you prefer <i>whatspp</i>_ 🤔<br>
 <b>Chat or Call: +234-8039-6788-42</b><br>
 <b>Chat or Call: +234-8052-9782-06</b>
+  
+  
+  ## Language in progress
+ * C program
+ * Python program
+ * HTML
+ * CSS
+ * JavaScript
+ * NodeJs
 <!--
 **EnGentech/EnGentech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
