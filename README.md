@@ -1,5 +1,5 @@
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) </p>
-### I am currently an student at ALX Software Engineering
+### I am currently a student at ALX Software Engineering
 
   Learning is my discipline
 
