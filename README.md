@@ -22,6 +22,8 @@ _Do you prefer <i>whatspp</i>_ 🤔<br>
  * CSS
  * JavaScript
  * NodeJs
+ * MySQLdb
+ * sqlAlchemy
   <hr><br>
   
  ### <p align="center"> I am open to be trainied and to train  <br>I am open to colaborate with other software engineers around the globe hence to contribute my quota </p>
