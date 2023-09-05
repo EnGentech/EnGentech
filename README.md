@@ -1,7 +1,35 @@
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) </p>
-### I am currently a student at ALX Software Engineering
+### 🌟 Aspiring Backend Web Developer Eager to Kickstart My Journey
+Are you seeking a passionate and dedicated backend web developer ready to embark on an exciting journey in the world of web development? Look no further!
 
-  Learning is my discipline
+🚀 Why Choose Me?
+📚 Fresh Knowledge: I've recently graduated with a strong foundation in web development, specializing in backend technologies. My educational background equips me with the latest industry knowledge and a hunger to apply it in real-world projects.
+
+💡 Quick Learner: I thrive on learning and adapting. I'm eager to take on challenges, absorb new concepts, and apply them to your projects effectively.
+
+🛠️ Hands-On Approach: While I may not have extensive professional experience yet, I'm committed to hands-on development, crafting code, and problem-solving to deliver the best results for your web applications.
+
+💻 Technologies I'm Proficient In:
+•	Languages: Python, Type-Scripting in progress
+•	Frameworks: Flask, Django in progress
+•	Databases: MySQL, MongoDB in progress
+•	API Development: REST
+•	Version Control: Git
+•	Cloud Platforms: AWS
+•	DevOps: Docker, Bash
+
+🏆 Passion & Potential:
+🌟 I'm eager to dive into challenging backend development tasks and contribute to your projects with enthusiasm.
+🌟 I'm dedicated to building clean and efficient code, ensuring your applications run smoothly.
+🌟 I'm excited to collaborate with experienced professionals and learn from their expertise.
+🔗 Let's Connect!
+
+I'm at the beginning of my web development journey and excited to grow alongside your projects. Let's discuss how I can be an asset to your team.
+📧 Email: engen.inyang@gmail.com 
+🌐 Portfolio: https://www.engentech.tech/kasuwa
+📝 GitHub: https://github.com/EnGentech
+
+🚀 Ready to take your web projects to the next level with an enthusiastic backend developer? Reach out today, and let's start creating amazing digital experiences together!
 
 
 ## Contact me
