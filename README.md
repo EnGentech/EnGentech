@@ -32,7 +32,7 @@ I'm at the beginning of my web development journey and excited to grow alongside
 
 
 ## Contact me
-* <a href="www.linkedin.com/in/iberedem-inyang-3b88ba223">LinkenIn
+* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/">LinkenIn
 * <a href="https://web.facebook.com/engr.gentle.1/"> Facebook
 * <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A">Youtube_Channel
 * <a href=“mailto:engen.inyang@email.com”>Mail_me@engen.inyang@gmail.com</a>
