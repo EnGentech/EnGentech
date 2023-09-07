@@ -1,5 +1,5 @@
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) </p>
-### 🌟 Aspiring Backend Web Developer Eager to Kickstart My Journey
+### 🌟 Aspiring Full-Stack Developer Eager to Kickstart My Journey
 Are you seeking a passionate and dedicated backend web developer ready to embark on an exciting journey in the world of web development? Look no further!
 
 🚀 Why Choose Me?
@@ -18,6 +18,11 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 •	Cloud Platforms: AWS
 •	DevOps: Docker, Bash
 
+💻 Front-end Technologies I'm Proficient In:
+•	Languages: HTML/CSS
+•	Languages: JavaScripting
+•	Languages: Type-Scripting in progress
+
 🏆 Passion & Potential:
 🌟 I'm eager to dive into challenging backend development tasks and contribute to your projects with enthusiasm.
 🌟 I'm dedicated to building clean and efficient code, ensuring your applications run smoothly.
@@ -26,7 +31,7 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 
 I'm at the beginning of my web development journey and excited to grow alongside your projects. Let's discuss how I can be an asset to your team.
 📧 Email: engen.inyang@gmail.com 
-🌐 Portfolio: https://www.engentech.tech/kasuwa
+🌐 Portfolio: http://34.207.58.138/
 
 🚀 Ready to take your web projects to the next level with an enthusiastic backend developer? Reach out today, and let's start creating amazing digital experiences together!
 
