@@ -15,14 +15,14 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
     💻 <b>Technologies I'm Proficient In [Frontend & Backend]:<b><hr>
   </p>
   <p align="center">
-    <img src="python.jpg" alt="Alt Text" width="120px" height="100px" style="margin-right: 100px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="c_language.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="flask.webp" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="mysql.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="frontends.jpg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="git_github.png" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="linux.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="bash.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="python.jpg" alt="Alt Text" width="100px" height="80px" style="margin-right: 100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="c_language.jpeg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="flask.webp" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="mysql.jpeg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="frontends.jpg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="git_github.png" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="linux.jpeg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="bash.jpeg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   <hr>
   
