@@ -1,5 +1,6 @@
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) </p>
 ### 🌟 Aspiring Full-Stack Developer Eager to Kickstart My Journey
+<img src="logo.PNG"><hr>
 Are you seeking a passionate and dedicated backend web developer ready to embark on an exciting journey in the world of web development? Look no further!
 
 🚀 Why Choose Me?
