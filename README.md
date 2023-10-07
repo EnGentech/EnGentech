@@ -47,18 +47,35 @@ I'm at the beginning of my web development journey and excited to grow alongside
 
 
 ## Contact me
-* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="LinkedIn-Connect-blue.svg">
-* <a href="https://web.facebook.com/engr.gentle.1/"><img src="Facebook-Connect-blue.svg">
-* <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A"><img src="YouTube-Subscribe-red.svg">
-* [<img src="whasapp.png" alt="WhatsApp" width="30" height="30" />](https://wa.me/2348039678842)
-* [<img src="mailme.png" alt="Email me" width="30" height="30" />](mailto:engen.inyang@gmail.com)
+<span style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/">
+    <img src="LinkedIn-Connect-blue.svg" alt="LinkedIn">
+  </a>
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <a href="https://web.facebook.com/engr.gentle.1/">
+    <img src="Facebook-Connect-blue.svg" alt="Facebook">
+  </a>
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A">
+    <img src="YouTube-Subscribe-red.svg" alt="YouTube">
+  </a>
+</span>
+<span style="display: inline-block; margin-right: 10px;">
+  <a href="https://wa.me/2348039678842">
+    <img src="whatsapp.png" alt="WhatsApp" width="30" height="30">
+  </a>
+</span>
+<span style="display: inline-block;">
+  <a href="mailto:engen.inyang@gmail.com">
+    <img src="mailme.png" alt="Email me" width="30" height="30">
+  </a>
+</span>
 
 
-
-_Do you prefer <i>whatspp</i>_ 🤔<br>
-<b>Chat or Call: +234-8039-6788-42</b><br>
-<b>Chat or Call: +234-8052-9782-06</b>
-  
+_Do you prefer <i>call</i>_ 🤔<br>
+<b>Chat or Call: +234-8039-6788-42</b><br>  
 
   <hr><br>
   
