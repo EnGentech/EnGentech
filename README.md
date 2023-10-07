@@ -11,7 +11,8 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 
 <div align='center'>
   <p>
-    💻 <b>Technologies I'm Proficient In:<b>
+  <hr>
+    💻 <b>Technologies I'm Proficient In [Frontend & Backend]:<b><hr>
   </p>
   <p align="center">
     <img src="python.jpg" alt="Alt Text" width="120px" height="100px" style="margin-right: 100px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,23 +21,13 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
     <img src="mysql.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="frontends.jpg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="git_github.png" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="linux.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="bash.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-  <p>
-    • Languages: Python, Type-Scripting in progress
-    • Frameworks: Flask, Django in progress
-    • Databases: MySQL, MongoDB in progress
-    • API Development: REST
-    • Version Control: Git
-    • Cloud Platforms: AWS
-    • DevOps: Docker, Bash
-  </p>
+  <hr>
+  
 </div>
 
-
-💻 Front-end Technologies I'm Proficient In:
-•	Languages: HTML/CSS
-•	Languages: JavaScripting
-•	Languages: Type-Scripting in progress
 
 🏆 Passion & Potential:
 🌟 I'm eager to dive into challenging backend development tasks and contribute to your projects with enthusiasm.
