@@ -28,10 +28,11 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
   
 </div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EnGentech&show_icons=true&theme=dark)
+<div align='center'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnGentech&layout=compact&theme=dark)
 
+</div>
 
 
 🏆 Passion & Potential:
