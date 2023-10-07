@@ -14,7 +14,7 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
     💻 Technologies I'm Proficient In:
   </p>
   <p align="center">
-    <img src="python.jpg" alt="Alt Text" width="120px" height="100px" style="margin-right: 10px">...
+    <img src="python.jpg" alt="Alt Text" width="120px" height="100px" style="margin-right: 100px">...
     <img src="c_language.jpeg" alt="Alt Text" width="120px" height="100px">
   </p>
   <p>
