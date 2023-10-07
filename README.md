@@ -11,11 +11,15 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 
 <div align='center'>
   <p>
-    💻 Technologies I'm Proficient In:
+    💻 <b>Technologies I'm Proficient In:<b>
   </p>
   <p align="center">
-    <img src="python.jpg" alt="Alt Text" width="120px" height="100px" style="margin-right: 100px">...
-    <img src="c_language.jpeg" alt="Alt Text" width="120px" height="100px">
+    <img src="python.jpg" alt="Alt Text" width="120px" height="100px" style="margin-right: 100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="c_language.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="flask.webp" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="mysql.jpeg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="frontends.jpg" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="git_github.png" alt="Alt Text" width="120px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   <p>
     • Languages: Python, Type-Scripting in progress
