@@ -9,10 +9,21 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 
 🛠️ Hands-On Approach: While I may not have extensive professional experience yet, I'm committed to hands-on development, crafting code, and problem-solving to deliver the best results for your web applications.
 
+🏆 Passion & Potential:
+🌟 I'm eager to dive into challenging backend development tasks and contribute to your projects with enthusiasm.
+🌟 I'm dedicated to building clean and efficient code, ensuring your applications run smoothly.
+🌟 I'm excited to collaborate with experienced professionals and learn from their expertise.
+🔗 Let's Connect!
+
+I'm at the beginning of my web development journey and excited to grow alongside your projects. Let's discuss how I can be an asset to your team.
+🌐 Portfolio: http://34.207.58.138/ (# server currently down)
+
+🚀 Ready to take your web projects to the next level with an enthusiastic backend developer? Reach out today, and let's start creating amazing digital experiences together!
+
 <div align='center'>
   <p>
   <hr>
-    💻 <b>Technologies I'm Proficient In [Frontend & Backend]:<b><hr>
+    💻 <b> Technologies I'm Proficient In [Frontend & Backend]:<b><hr>
   </p>
   <p align="center">
     <img src="python.jpg" alt="Alt Text" width="100px" height="80px" style="margin-right: 100px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,40 +46,20 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 </div>
 
 
-
-🏆 Passion & Potential:
-🌟 I'm eager to dive into challenging backend development tasks and contribute to your projects with enthusiasm.
-🌟 I'm dedicated to building clean and efficient code, ensuring your applications run smoothly.
-🌟 I'm excited to collaborate with experienced professionals and learn from their expertise.
-🔗 Let's Connect!
-
-I'm at the beginning of my web development journey and excited to grow alongside your projects. Let's discuss how I can be an asset to your team.
-📧 Email: engen.inyang@gmail.com 
-🌐 Portfolio: http://34.207.58.138/
-
-🚀 Ready to take your web projects to the next level with an enthusiastic backend developer? Reach out today, and let's start creating amazing digital experiences together!
-
-
 ## Contact me
-* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-* <a href="https://web.facebook.com/engr.gentle.1/"><img src="LinkedIn-Connect-blue.svg">
-* <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A">Youtube_Channel
-* <a href=“mailto:engen.inyang@email.com”>Mail_me@engen.inyang@gmail.com</a>
+* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="LinkedIn-Connect-blue.svg">
+* <a href="https://web.facebook.com/engr.gentle.1/"><img src="Facebook-Connect-blue.svg">
+* <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A"><img src="YouTube-Subscribe-red.svg">
+[Email me](mailto:engen.inyang@gmail.com)
+[WhatsApp](https://wa.me/2348039678842)
+
+
 
 _Do you prefer <i>whatspp</i>_ 🤔<br>
 <b>Chat or Call: +234-8039-6788-42</b><br>
 <b>Chat or Call: +234-8052-9782-06</b>
   
-  
-  ## Language in progress
- * C program
- * Python program
- * HTML
- * CSS
- * JavaScript
- * NodeJs
- * MySQLdb
- * sqlAlchemy
+
   <hr><br>
   
  ### <p align="center"> I am open to be trainied and to train  <br>I am open to colaborate with other software engineers around the globe hence to contribute my quota </p>
