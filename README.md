@@ -9,7 +9,10 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 
 🛠️ Hands-On Approach: While I may not have extensive professional experience yet, I'm committed to hands-on development, crafting code, and problem-solving to deliver the best results for your web applications.
 
+<div align='center'>
+  <p>
 💻 Technologies I'm Proficient In:
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)
 •	Languages: Python, Type-Scripting in progress
 •	Frameworks: Flask, Django in progress
 •	Databases: MySQL, MongoDB in progress
@@ -17,6 +20,8 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 •	Version Control: Git
 •	Cloud Platforms: AWS
 •	DevOps: Docker, Bash
+  </p>
+</div>
 
 💻 Front-end Technologies I'm Proficient In:
 •	Languages: HTML/CSS
