@@ -14,7 +14,7 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
     💻 Technologies I'm Proficient In:
   </p>
   <p align="center">
-    <img src="python.webp" alt="Alt Text" width="50px" height="50px">
+    <img src="python.jpg" alt="Alt Text" width="150px" height="100px">
   </p>
   <p>
     • Languages: Python, Type-Scripting in progress
