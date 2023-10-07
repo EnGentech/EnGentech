@@ -33,7 +33,7 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnGentech&layout=compact&theme=dark)
 
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iberedem-inyang-3b88ba223/)
+
 
 
 🏆 Passion & Potential:
@@ -50,8 +50,8 @@ I'm at the beginning of my web development journey and excited to grow alongside
 
 
 ## Contact me
-* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)"
-* <a href="https://web.facebook.com/engr.gentle.1/"> Facebook
+* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+* <a href="https://web.facebook.com/engr.gentle.1/"><img src="LinkedIn-Connect-blue.svg">
 * <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A">Youtube_Channel
 * <a href=“mailto:engen.inyang@email.com”>Mail_me@engen.inyang@gmail.com</a>
 
