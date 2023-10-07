@@ -33,7 +33,8 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnGentech&layout=compact&theme=dark)
 
 </div>
-[LinkedIn](https://www.linkedin.com/in/iberedem-inyang-3b88ba223/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iberedem-inyang-3b88ba223/)
+
 
 
 
