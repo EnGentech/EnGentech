@@ -47,12 +47,11 @@ I'm at the beginning of my web development journey and excited to grow alongside
 
 
 ## Contact me
-* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="LinkedIn-Connect-blue.svg">
-* <a href="https://web.facebook.com/engr.gentle.1/"><img src="Facebook-Connect-blue.svg">
-* <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A"><img src="YouTube-Subscribe-red.svg">
-* [<img src="whasapp.png" alt="WhatsApp" width="50" height="50" />](https://wa.me/2348039678842)
-* [<img src="mailme.png" alt="Email me" width="50" height="50" />](mailto:engen.inyang@gmail.com)
-
+* [<img src="LinkedIn-Connect-blue.svg">](https://www.linkedin.com/in/iberedem-inyang-3b88ba223/)
+* [<img src="Facebook-Connect-blue.svg">](https://web.facebook.com/engr.gentle.1/)
+* [<img src="YouTube-Subscribe-red.svg">](https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A)
+* [<img src="whatsapp.png" alt="WhatsApp" width="30" height="30" />](https://wa.me/2348039678842)
+* [<img src="mailme.png" alt="Email me" width="30" height="30" />](mailto:engen.inyang@gmail.com)
 
 
 _Do you prefer <i>whatspp</i>_ 🤔<br>
