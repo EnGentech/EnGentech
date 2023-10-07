@@ -11,17 +11,22 @@ Are you seeking a passionate and dedicated backend web developer ready to embark
 
 <div align='center'>
   <p>
-💻 Technologies I'm Proficient In:
-![Alt Text](python.webp)
-•	Languages: Python, Type-Scripting in progress
-•	Frameworks: Flask, Django in progress
-•	Databases: MySQL, MongoDB in progress
-•	API Development: REST
-•	Version Control: Git
-•	Cloud Platforms: AWS
-•	DevOps: Docker, Bash
+    💻 Technologies I'm Proficient In:
+  </p>
+  <p align="center">
+    <img src="python.webp" alt="Alt Text">
+  </p>
+  <p>
+    • Languages: Python, Type-Scripting in progress
+    • Frameworks: Flask, Django in progress
+    • Databases: MySQL, MongoDB in progress
+    • API Development: REST
+    • Version Control: Git
+    • Cloud Platforms: AWS
+    • DevOps: Docker, Bash
   </p>
 </div>
+
 
 💻 Front-end Technologies I'm Proficient In:
 •	Languages: HTML/CSS
