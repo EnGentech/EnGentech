@@ -50,8 +50,9 @@ I'm at the beginning of my web development journey and excited to grow alongside
 * <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="LinkedIn-Connect-blue.svg">
 * <a href="https://web.facebook.com/engr.gentle.1/"><img src="Facebook-Connect-blue.svg">
 * <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A"><img src="YouTube-Subscribe-red.svg">
-* [![WhatsApp](whatsapp.jpeg)](https://wa.me/2348039678842)
-* [![Email me](mailme.png)](mailto:engen.inyang@gmail.com)
+* [<img src="whasapp.png" alt="WhatsApp" width="50" height="50" />](https://wa.me/2348039678842)
+* [<img src="mailme.png" alt="Email me" width="50" height="50" />](mailto:engen.inyang@gmail.com)
+
 
 
 _Do you prefer <i>whatspp</i>_ 🤔<br>
