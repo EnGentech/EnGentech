@@ -35,6 +35,7 @@ I'm at the beginning of my web development journey and excited to grow alongside
     <img src="git_github.png" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="linux.jpeg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="bash.jpeg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="mongodb.jpeg" alt="Alt Text" width="100px" height="80px">&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   <hr>
   
