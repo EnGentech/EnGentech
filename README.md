@@ -44,7 +44,7 @@ I'm at the beginning of my web development journey and excited to grow alongside
 <div align='center'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnGentech&layout=compact&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-EnGentech)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnGentech)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
