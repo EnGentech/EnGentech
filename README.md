@@ -1,5 +1,5 @@
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) <br><br><img src="logo.PNG" width="170px" height="120px"></p>
-### 🌟 Python Back Developer with Django framework
+### 🌟 Python Back-end Dev with Django framework
 <hr>
 🚀 Welcome to my GitHub Profile! <h1>Check-Out</h1>
 
