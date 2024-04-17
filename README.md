@@ -1,7 +1,11 @@
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">EnGentech</i> (Iberedem Inyang) <br><br><img src="logo.PNG" width="170px" height="120px"></p>
-### 🌟 Back Developer Eager to Kickstart My Journey
+### 🌟 Python Back Developer with Django framework
 <hr>
-🚀 Welcome to my GitHub Profile!
+🚀 Welcome to my GitHub Profile! <h1>Check-Out</h1>
+
+<h2>Portfolio Links</h2>
+Portfolio link 1: https://hpstudyhub.pythonanywhere.com/landingPage/
+Portforlio link 2:  https://lessonpedia.pythonanywhere.com
 
 Tech Enthusiasts and Innovators, greetings! 🌟
 
