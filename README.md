@@ -4,8 +4,9 @@
 🚀 Welcome to my GitHub Profile! <h1>Check-Out</h1>
 
 <h2>Portfolio Links</h2>
-Portfolio link 1: https://hpstudyhub.pythonanywhere.com/landingPage/
+Portfolio link 1: https://hpstudyhub.pythonanywhere.com/landingPage/  <br>
 Portforlio link 2:  https://lessonpedia.pythonanywhere.com
+<hr>
 
 Tech Enthusiasts and Innovators, greetings! 🌟
 
